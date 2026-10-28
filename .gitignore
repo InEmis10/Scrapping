@@ -1,0 +1,14 @@
+.cache/
+profil_playwright/
+session.json
+cookies.json
+.env
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+venv
